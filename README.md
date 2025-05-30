@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Developers  
 - **Umar Farooq**  
-- **Abdullah "GayNigger" Qaisar**  
+- **Abdullah Qaisar**  
 
 ## 🚀 Quick Start  
 ```sh
